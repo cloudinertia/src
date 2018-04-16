@@ -6,3 +6,5 @@ assignment codes for CS essentials - network sessions
 * Select the directory of assignment
 
 * Upload source codes with file name describing your name
+
+* See example.py for example code
